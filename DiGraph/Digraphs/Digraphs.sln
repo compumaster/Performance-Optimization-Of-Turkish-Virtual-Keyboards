@@ -1,0 +1,53 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digraphs", "Digraphs.csproj", "{77BE3157-0CD9-47B4-92B7-82DBCD1EE2C6}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigraphLibrary", "..\DigraphLibrary\DigraphLibrary.csproj", "{C1BF79DB-07BA-4E54-A70A-66EE1E97579C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorpusParsers", "..\CorpusParsers\CorpusParsers.csproj", "{7B3B976E-7A3C-435D-B6A8-30D78DE915BB}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FittsLawModels", "..\FittsLawModels\FittsLawModels.csproj", "{5625E225-F058-4BD2-B58A-058322F1A8BF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardSolutions", "..\KeyboardSolutions\KeyboardSolutions.csproj", "{4C98BF1E-13AC-41A0-9DB5-72437BF80626}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{77BE3157-0CD9-47B4-92B7-82DBCD1EE2C6}.Debug.ActiveCfg = Debug|.NET
+		{77BE3157-0CD9-47B4-92B7-82DBCD1EE2C6}.Debug.Build.0 = Debug|.NET
+		{77BE3157-0CD9-47B4-92B7-82DBCD1EE2C6}.Release.ActiveCfg = Release|.NET
+		{77BE3157-0CD9-47B4-92B7-82DBCD1EE2C6}.Release.Build.0 = Release|.NET
+		{C1BF79DB-07BA-4E54-A70A-66EE1E97579C}.Debug.ActiveCfg = Debug|.NET
+		{C1BF79DB-07BA-4E54-A70A-66EE1E97579C}.Debug.Build.0 = Debug|.NET
+		{C1BF79DB-07BA-4E54-A70A-66EE1E97579C}.Release.ActiveCfg = Release|.NET
+		{C1BF79DB-07BA-4E54-A70A-66EE1E97579C}.Release.Build.0 = Release|.NET
+		{7B3B976E-7A3C-435D-B6A8-30D78DE915BB}.Debug.ActiveCfg = Debug|.NET
+		{7B3B976E-7A3C-435D-B6A8-30D78DE915BB}.Debug.Build.0 = Debug|.NET
+		{7B3B976E-7A3C-435D-B6A8-30D78DE915BB}.Release.ActiveCfg = Release|.NET
+		{7B3B976E-7A3C-435D-B6A8-30D78DE915BB}.Release.Build.0 = Release|.NET
+		{5625E225-F058-4BD2-B58A-058322F1A8BF}.Debug.ActiveCfg = Debug|.NET
+		{5625E225-F058-4BD2-B58A-058322F1A8BF}.Debug.Build.0 = Debug|.NET
+		{5625E225-F058-4BD2-B58A-058322F1A8BF}.Release.ActiveCfg = Release|.NET
+		{5625E225-F058-4BD2-B58A-058322F1A8BF}.Release.Build.0 = Release|.NET
+		{4C98BF1E-13AC-41A0-9DB5-72437BF80626}.Debug.ActiveCfg = Debug|.NET
+		{4C98BF1E-13AC-41A0-9DB5-72437BF80626}.Debug.Build.0 = Debug|.NET
+		{4C98BF1E-13AC-41A0-9DB5-72437BF80626}.Release.ActiveCfg = Release|.NET
+		{4C98BF1E-13AC-41A0-9DB5-72437BF80626}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

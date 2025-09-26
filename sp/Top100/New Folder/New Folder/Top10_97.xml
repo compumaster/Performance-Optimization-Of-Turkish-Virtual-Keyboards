@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<KeyboardCanvasData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyboardChars>
+    <anyType xmlns:q1="http://microsoft.com/wsdl/types/" xsi:type="q1:char">107</anyType>
+    <anyType xmlns:q2="http://microsoft.com/wsdl/types/" xsi:type="q2:char">119</anyType>
+    <anyType xmlns:q3="http://microsoft.com/wsdl/types/" xsi:type="q3:char">109</anyType>
+    <anyType xmlns:q4="http://microsoft.com/wsdl/types/" xsi:type="q4:char">117</anyType>
+    <anyType xmlns:q5="http://microsoft.com/wsdl/types/" xsi:type="q5:char">113</anyType>
+    <anyType xmlns:q6="http://microsoft.com/wsdl/types/" xsi:type="q6:char">99</anyType>
+    <anyType xmlns:q7="http://microsoft.com/wsdl/types/" xsi:type="q7:char">104</anyType>
+    <anyType xmlns:q8="http://microsoft.com/wsdl/types/" xsi:type="q8:char">116</anyType>
+    <anyType xmlns:q9="http://microsoft.com/wsdl/types/" xsi:type="q9:char">111</anyType>
+    <anyType xmlns:q10="http://microsoft.com/wsdl/types/" xsi:type="q10:char">102</anyType>
+    <anyType xmlns:q11="http://microsoft.com/wsdl/types/" xsi:type="q11:char">122</anyType>
+    <anyType xmlns:q12="http://microsoft.com/wsdl/types/" xsi:type="q12:char">106</anyType>
+    <anyType xmlns:q13="http://microsoft.com/wsdl/types/" xsi:type="q13:char">105</anyType>
+    <anyType xmlns:q14="http://microsoft.com/wsdl/types/" xsi:type="q14:char">101</anyType>
+    <anyType xmlns:q15="http://microsoft.com/wsdl/types/" xsi:type="q15:char">32</anyType>
+    <anyType xmlns:q16="http://microsoft.com/wsdl/types/" xsi:type="q16:char">110</anyType>
+    <anyType xmlns:q17="http://microsoft.com/wsdl/types/" xsi:type="q17:char">103</anyType>
+    <anyType xmlns:q18="http://microsoft.com/wsdl/types/" xsi:type="q18:char">98</anyType>
+    <anyType xmlns:q19="http://microsoft.com/wsdl/types/" xsi:type="q19:char">118</anyType>
+    <anyType xmlns:q20="http://microsoft.com/wsdl/types/" xsi:type="q20:char">114</anyType>
+    <anyType xmlns:q21="http://microsoft.com/wsdl/types/" xsi:type="q21:char">115</anyType>
+    <anyType xmlns:q22="http://microsoft.com/wsdl/types/" xsi:type="q22:char">97</anyType>
+    <anyType xmlns:q23="http://microsoft.com/wsdl/types/" xsi:type="q23:char">100</anyType>
+    <anyType xmlns:q24="http://microsoft.com/wsdl/types/" xsi:type="q24:char">120</anyType>
+    <anyType xmlns:q25="http://microsoft.com/wsdl/types/" xsi:type="q25:char">112</anyType>
+    <anyType xmlns:q26="http://microsoft.com/wsdl/types/" xsi:type="q26:char">108</anyType>
+    <anyType xmlns:q27="http://microsoft.com/wsdl/types/" xsi:type="q27:char">121</anyType>
+    <anyType xmlns:q28="http://microsoft.com/wsdl/types/" xsi:type="q28:char">231</anyType>
+    <anyType xmlns:q29="http://microsoft.com/wsdl/types/" xsi:type="q29:char">287</anyType>
+    <anyType xmlns:q30="http://microsoft.com/wsdl/types/" xsi:type="q30:char">305</anyType>
+    <anyType xmlns:q31="http://microsoft.com/wsdl/types/" xsi:type="q31:char">246</anyType>
+    <anyType xmlns:q32="http://microsoft.com/wsdl/types/" xsi:type="q32:char">351</anyType>
+    <anyType xmlns:q33="http://microsoft.com/wsdl/types/" xsi:type="q33:char">252</anyType>
+  </keyboardChars>
+  <keyboardMode>Hexagon</keyboardMode>
+  <keyboardButtons>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>136</X>
+        <Y>69.28203</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>231</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>152</X>
+        <Y>69.2820358</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>252</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>168</X>
+        <Y>69.2820358</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>115</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>184</X>
+        <Y>69.2820358</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>111</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>200</X>
+        <Y>69.28203</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>112</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>128</X>
+        <Y>83.1384354</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>103</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>144</X>
+        <Y>83.1384354</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>98</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>160</X>
+        <Y>83.1384354</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>107</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>176</X>
+        <Y>83.1384354</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>114</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>192</X>
+        <Y>83.13844</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>121</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>208</X>
+        <Y>83.1384354</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>104</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>120</X>
+        <Y>96.99484</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>246</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>136</X>
+        <Y>96.99484</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>351</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>152</X>
+        <Y>96.99484</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>105</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>168</X>
+        <Y>96.99484</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>32</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>184</X>
+        <Y>96.99484</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>97</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>200</X>
+        <Y>96.99484</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>116</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>216</X>
+        <Y>96.99484</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>102</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>128</X>
+        <Y>110.85125</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>122</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>144</X>
+        <Y>110.85125</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>305</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>160</X>
+        <Y>110.85125</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>110</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>176</X>
+        <Y>110.85125</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>101</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>192</X>
+        <Y>110.85125</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>108</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>136</X>
+        <Y>124.707657</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>287</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>152</X>
+        <Y>124.707657</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>117</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>168</X>
+        <Y>124.707657</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>100</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>184</X>
+        <Y>124.707657</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>109</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>208</X>
+        <Y>110.85125</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>118</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>200</X>
+        <Y>124.707657</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>99</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>216</X>
+        <Y>69.28203</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>106</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>224</X>
+        <Y>83.13844</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>119</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>224</X>
+        <Y>110.85125</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>120</KeyboardChar>
+    </anyType>
+    <anyType xsi:type="KeyboardButton">
+      <InnerCircleRadius>8</InnerCircleRadius>
+      <Location>
+        <X>216</X>
+        <Y>124.707657</Y>
+      </Location>
+      <Mode>Hexagon</Mode>
+      <KeyboardChar>113</KeyboardChar>
+    </anyType>
+  </keyboardButtons>
+</KeyboardCanvasData>
